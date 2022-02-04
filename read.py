@@ -1,4 +1,5 @@
 #you can modify this project and also count number and this project will tell you witch is not present
+#you have to give the diractary in open() function and user you can give the file name or you can give a file name
 alpha=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 user=input("Enter file name::")
