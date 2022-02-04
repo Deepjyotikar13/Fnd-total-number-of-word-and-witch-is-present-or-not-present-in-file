@@ -32,4 +32,3 @@ with open(f'/storage/emulated/0/{user}.txt') as d:
 	print(hjlis,"is not present")
 	print("total word is::",sum(lisforcount))
 
-	d.close()
